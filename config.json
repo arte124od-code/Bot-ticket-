@@ -1,0 +1,22 @@
+{
+    "client": {
+        "token": "seu-token"
+    },
+    "embeds_color": {
+        "embed_primary": "#ff00ff",
+        "embed_invisible": "#2f3136",
+        "embed_success": "#00ff00",
+        "embed_error": "#ff0000"
+    },
+    "ticket": {
+        "category_id": "1061718309365629049",
+        "category_call_id": "1061718337798820000",
+        "support_role": "1061718375602065619",
+        "channel_logs": "1067621078941311036"
+    },
+    "sales": {
+        "pix": "seupix@example.com",
+        "qrcode": "https://cdn.discordapp.com/attachments/1037732718290665573/1064814359685103657/mercadopago_pixQr.png",
+        "name": "Pessoa jurídica"
+    }
+}
