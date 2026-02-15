@@ -1,0 +1,22 @@
+{
+    "client": {
+        "token": "MTQ3MjQ4ODU2OTA1MzY0Mjc4Mw.GXR8cN.T-sgMJulidvLEYQWo1T975S4U0YJyBopJ0luRU"
+    },
+    "embeds_color": {
+        "embed_primary": "#ff00ff",
+        "embed_invisible": "#2f3136",
+        "embed_success": "#00ff00",
+        "embed_error": "#ff0000"
+    },
+    "ticket": {
+        "category_id": "1061718309365629049",
+        "category_call_id": "1061718337798820000",
+        "support_role": "1061718375602065619",
+        "channel_logs": "1067621078941311036"
+    },
+    "sales": {
+        "pix": "67981467038",
+        "qrcode": "
+        "name": "Arthur"
+    }
+}
